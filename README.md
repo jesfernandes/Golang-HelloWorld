@@ -4,7 +4,7 @@ Primeira Hello World usando Go!
 
 # Tecnologias Utilizadas
 
-- Go 1.16.3
+- [Go](https://golang.org/) versão 1.16.3
 
 # Executando arquivo
 
